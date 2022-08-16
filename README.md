@@ -13,7 +13,7 @@
 
 ### 主な利用シーン
 開花や生育、収穫を記録したり写真を投稿できる。
-またオススメの植物や肥料などの質問にも利用できる
+育て方などの質問・回答にも利用できる
 
 ## 設計書
 https://docs.google.com/spreadsheets/d/1P7AKAJGhN_cIdq0haOWZOBZNc15zt0Ehm54G1xQe0BE/edit?usp=sharing
